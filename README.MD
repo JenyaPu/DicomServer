@@ -1,0 +1,1 @@
+This is the local DICOM-server to collect data from various devices and store it in the database.
